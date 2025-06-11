@@ -179,7 +179,7 @@ trainer.save_model(
 └── outputs/                 # Training outputs and checkpoints
 ```
 
-## 🎯 Benefits of This Refactor
+## 🎯 Benefits of This Repository
 
 1. **Maintainability**: Clear separation of concerns makes the code easier to maintain
 2. **Testability**: Each component can be unit tested independently

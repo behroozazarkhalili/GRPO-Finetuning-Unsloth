@@ -47,7 +47,7 @@ This repository contains a comprehensive object-oriented implementation of the G
   - Model saving in multiple formats
   - LoRA verification and validation
 
-## 🚀 Key Improvements Over Original Script
+## 🚀 Key Advantages of The Repository
 
 ### 1. **Modularity & Reusability**
 - Each component has a single responsibility

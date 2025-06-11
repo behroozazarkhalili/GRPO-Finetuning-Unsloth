@@ -3,9 +3,6 @@
 This repository contains a comprehensive object-oriented implementation of the GRPO (Group Relative Policy Optimization) trainer for fine-tuning Llama 3.2 3B on mathematical reasoning tasks using the GSM8K dataset.
 
 ## 🏗️ Architecture Overview
-
-The original procedural script has been refactored into a clean, modular object-oriented design with the following key components:
-
 ### Core Classes
 
 #### 1. `ModelConfig`

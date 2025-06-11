@@ -1,0 +1,24 @@
+# Minimal Requirements for GRPO Trainer
+# Essential dependencies only
+
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.10.0
+accelerate>=0.20.0
+
+# Training Libraries
+trl==0.18.1
+peft>=0.4.0
+
+# Unsloth (main dependency)
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+
+# Fast inference
+vllm>=0.2.0
+
+# Essential utilities
+numpy>=1.21.0
+safetensors>=0.3.0
+huggingface_hub>=0.15.0
+tqdm>=4.64.0 

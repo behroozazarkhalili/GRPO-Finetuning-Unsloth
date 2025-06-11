@@ -175,9 +175,8 @@ trainer.save_model(
 ```
 ├── grpo_trainer_oop.py      # Main OOP implementation
 ├── example_usage.py         # Usage examples and demos
-├── README_OOP.md           # This documentation
-├── Advanced_Llama3_2_(3B)_GRPO_LoRA.py  # Original script
-└── outputs/                # Training outputs and checkpoints
+├── README.md                # This documentation
+└── outputs/                 # Training outputs and checkpoints
 ```
 
 ## 🎯 Benefits of This Refactor
